@@ -1,0 +1,35 @@
+body{
+	background-color: skyblue;
+}
+
+#header{
+	background-color: blue;
+	color: white;
+	text-align: center;
+
+}
+#container{
+	background-color: white;
+	width: 1000px;
+	margin: auto;
+	
+}
+#content{
+	padding: 10px;
+}
+#nav{
+	width: 280px;
+	float: left;
+	color: red;
+}
+
+#main {
+	width: 700px;
+	float: right;
+}
+
+#footer{
+	clear: both;
+	text-align: center;
+	color: pink;
+}
